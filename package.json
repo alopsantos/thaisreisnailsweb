@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "yarn build",
-    "prestart": "yarn && yarn global serve",
+    "prestart": "yarn && yarn add serve",
     "poststart": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
