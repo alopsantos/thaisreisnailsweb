@@ -16,7 +16,7 @@ const Dashboard: React.FC = () => (
           <li>
             <FaInstagram size={24} />
             <a href="https://www.instagram.com/thaisreis.nails/" target="_blank" title="Veja também meu perfil">
-              Me
+              @thaisreis.nails
             </a>
           </li>
           <li>
