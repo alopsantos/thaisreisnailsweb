@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaWhatsapp, FaFacebook, FaCalendarAlt, FaMapMarkerAlt, FaInstagram,  FaLocationArrow } from "react-icons/fa";
+import { FaFacebook, FaCalendarAlt, FaMapMarkerAlt, FaInstagram } from "react-icons/fa";
 
 import { Container, Content, Footer } from './styles';
 import Avatar from '../../assets/avatarimage.jpg';
